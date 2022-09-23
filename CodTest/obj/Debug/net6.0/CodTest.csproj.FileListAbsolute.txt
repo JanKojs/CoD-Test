@@ -1,0 +1,16 @@
+C:\Users\Jenda\source\repos\CodTest\CodTest\bin\Debug\net6.0\CodTest.exe
+C:\Users\Jenda\source\repos\CodTest\CodTest\bin\Debug\net6.0\input.txt
+C:\Users\Jenda\source\repos\CodTest\CodTest\bin\Debug\net6.0\CodTest.deps.json
+C:\Users\Jenda\source\repos\CodTest\CodTest\bin\Debug\net6.0\CodTest.runtimeconfig.json
+C:\Users\Jenda\source\repos\CodTest\CodTest\bin\Debug\net6.0\CodTest.dll
+C:\Users\Jenda\source\repos\CodTest\CodTest\bin\Debug\net6.0\CodTest.pdb
+C:\Users\Jenda\source\repos\CodTest\CodTest\obj\Debug\net6.0\CodTest.csproj.AssemblyReference.cache
+C:\Users\Jenda\source\repos\CodTest\CodTest\obj\Debug\net6.0\CodTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenda\source\repos\CodTest\CodTest\obj\Debug\net6.0\CodTest.AssemblyInfoInputs.cache
+C:\Users\Jenda\source\repos\CodTest\CodTest\obj\Debug\net6.0\CodTest.AssemblyInfo.cs
+C:\Users\Jenda\source\repos\CodTest\CodTest\obj\Debug\net6.0\CodTest.csproj.CoreCompileInputs.cache
+C:\Users\Jenda\source\repos\CodTest\CodTest\obj\Debug\net6.0\CodTest.dll
+C:\Users\Jenda\source\repos\CodTest\CodTest\obj\Debug\net6.0\refint\CodTest.dll
+C:\Users\Jenda\source\repos\CodTest\CodTest\obj\Debug\net6.0\CodTest.pdb
+C:\Users\Jenda\source\repos\CodTest\CodTest\obj\Debug\net6.0\CodTest.genruntimeconfig.cache
+C:\Users\Jenda\source\repos\CodTest\CodTest\obj\Debug\net6.0\ref\CodTest.dll

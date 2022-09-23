@@ -1,0 +1,5 @@
+﻿1;104;Domination;Hardhat;L;1900;0,43;173,0
+2;104;Team Deathmatch;Gun Runner;W;2625;2,86;272,5
+3;999;Kill Confirmed;Rammaza;W;2610;2,0;265,4
+4;999;Team Deathmatch;Suldal Harbor;W;1000;1,75;263,2
+5;104;Hardpoint; Mialstor Tank Factory;W;4825;1,5;422,6
